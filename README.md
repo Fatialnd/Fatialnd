@@ -28,7 +28,6 @@ I'm a passionate frontend developer with a strong focus on building clean, user-
 
 ### 📫 Connect with Me
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fatemeh-alinejad-250763210/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-alinejad-250763210/)
 
 Let's build something amazing together! 🚀
