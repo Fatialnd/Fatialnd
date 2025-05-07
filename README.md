@@ -21,8 +21,6 @@ I'm a passionate frontend developer with a strong focus on building clean, user-
 
 - 🎓 Graduated from HackYourFuture & Igor Sikorsky Kyiv University.
 - 🌍 Based in the Netherlands 🇳🇱.
-- 🛠 Constantly learning and exploring new technologies.
-- 💬 Open to collaboration and exciting projects.
 
 ### 📫 Connect with Me
 
