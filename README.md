@@ -32,7 +32,7 @@ I'm a passionate **frontend developer** focused on building clean, user-friendly
 📁 **Code Repository:** [github.com/Fatialnd/woodland](https://github.com/Fatialnd/woodland)
 
 <p align="center">
-  <img src="./woodland/public/screenshots/dashboard.png" alt="Woodland Dashboard" width="600"/>
+ <a href="https://ibb.co/YBvJ6Yqd"><img src="https://i.ibb.co/k2YzpkWD/darkmode-dashboard.png" alt="darkmode-dashboard" border="0"></a>
 </p>
 
 
