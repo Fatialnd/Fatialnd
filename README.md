@@ -17,7 +17,6 @@ I'm a passionate **frontend developer** focused on building clean, user-friendly
 ![styled-components](https://img.shields.io/badge/-styled--components-db7093?style=flat&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
