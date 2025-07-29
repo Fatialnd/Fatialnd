@@ -27,7 +27,6 @@ I'm a passionate **frontend developer** focused on building clean, user-friendly
 🔧 Built with React, Vite, TypeScript, Supabase, styled-components, and more  
 📊 Features a real-time dashboard, booking system, charts, and dark mode  
 🔒 Includes secure user authentication and staff-only access control  
-🌐 **Live Demo:** [woodlandbooking.netlify.app](https://woodlandbooking.netlify.app)  
 📁 **Code Repository:** [github.com/Fatialnd/woodland](https://github.com/Fatialnd/woodland)
 
 <p align="center">
