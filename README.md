@@ -20,30 +20,10 @@ I'm a passionate **frontend developer** focused on building clean, user-friendly
 
 ---
 
-## 🌲 Featured Project: Woodland
 
-> A custom-built internal app for managing bookings, guests, cabins, and settings for a boutique hotel with 8 wooden cabins.
-
-🔧 Built with React, Vite, TypeScript, Supabase, styled-components, and more  
-📊 Features a real-time dashboard, booking system, charts, and dark mode  
-🔒 Includes secure user authentication and staff-only access control  
-📁 **Code Repository:** [github.com/Fatialnd/woodland](https://github.com/Fatialnd/woodland)
 
 <p align="center">
  <a href="https://ibb.co/YBvJ6Yqd"><img src="https://i.ibb.co/k2YzpkWD/darkmode-dashboard.png" alt="darkmode-dashboard" border="0"></a>
 </p>
 
 
----
-
-## 💡 About Me
-
-- 🎓 Graduate of [HackYourFuture](https://www.hackyourfuture.net/) and the National Technical University of Ukraine
-- 🌍 Currently based in the Netherlands 🇳🇱
-- 🧠 Curious, creative, and always learning — with a passion for frontend development, UI/UX, and building real-world applications
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-alinejad-250763210/)
