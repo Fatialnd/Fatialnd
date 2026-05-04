@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fatemeh!
 
-I'm a passionate **frontend developer** focused on building clean, user-friendly, and scalable web applications. I love turning ideas into interactive interfaces and creating seamless digital experiences.
+I’m a software engineer passionate about building clean, user-friendly, and scalable web applications, turning ideas into seamless digital experiences.
 
 ---
 
